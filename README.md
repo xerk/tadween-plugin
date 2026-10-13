@@ -4,7 +4,7 @@ Plan, draft, schedule and publish social media posts from Claude, in English and
 Tadween MCP server at `https://studio.tadween.app/mcp-oauth-claude`; you sign in to your own Tadween account (OAuth), no API key.
 
 ## What you need
-- A Tadween account with at least one connected social account (https://tadween.app, 14-day free trial). The connector is part of the Team and Agency plans.
+- A Tadween account with at least one connected social account (https://tadween.app). The connector is part of the Team and Agency plans.
 
 ## What it can do
 List your connected channels, check a channel's posting rules, create drafts or scheduled posts, attach media from a link or
