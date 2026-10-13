@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "tadween": {
-      "url": "https://studio.tadween.app/mcp-oauth-claude"
+      "url": "https://studio.tadween.app/mcp-oauth-dynamic"
     }
   }
 }

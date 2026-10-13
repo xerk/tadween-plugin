@@ -20,4 +20,4 @@ AGPL-3.0, built on Postiz.
 
 ## Cursor and Grok Bot
 
-The same folder is also a Cursor plugin (`.cursor-plugin/plugin.json`, `mcp.json`). Cursor and Grok Bot sign you in to Tadween with OAuth the first time the tools are used.
+The same folder is also a Cursor plugin (`.cursor-plugin/plugin.json`, `mcp.json`). Cursor and Grok Bot use `https://studio.tadween.app/mcp-oauth-dynamic` and sign you in to your own Tadween account with OAuth the first time the tools are used (no API key). The Claude plugin (`.mcp.json`) uses the `/mcp-oauth-claude` endpoint required by Claude's directory.
