@@ -1,0 +1,14 @@
+{
+  "name": "tadween",
+  "version": "1.0.0",
+  "description": "Plan, draft, schedule and publish social media posts from Claude with Tadween, in English and Arabic.",
+  "author": {
+    "name": "Xerk LLC",
+    "email": "support@xerk.io",
+    "url": "https://tadween.app"
+  },
+  "homepage": "https://tadween.app/claude",
+  "repository": "https://github.com/xerk/tadween-plugin",
+  "license": "AGPL-3.0",
+  "keywords": ["social media", "scheduling", "linkedin", "instagram", "arabic", "content calendar"]
+}

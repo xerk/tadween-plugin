@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tadween": {
+      "type": "http",
+      "url": "https://studio.tadween.app/mcp-oauth-claude"
+    }
+  }
+}

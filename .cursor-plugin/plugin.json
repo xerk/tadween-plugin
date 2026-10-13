@@ -1,0 +1,16 @@
+{
+  "name": "tadween",
+  "version": "1.0.0",
+  "description": "Plan, draft, schedule and publish social media posts with Tadween, in English and Arabic.",
+  "author": {
+    "name": "Xerk LLC",
+    "email": "support@xerk.io"
+  },
+  "homepage": "https://tadween.app",
+  "repository": "https://github.com/xerk/tadween-plugin",
+  "license": "AGPL-3.0",
+  "keywords": ["social media", "scheduling", "arabic", "content calendar", "mcp"],
+  "logo": "assets/logo.svg",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}
